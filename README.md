@@ -16,9 +16,8 @@ This workflow introduces:
 
 ## 🧰 Requirements
 ```bash
-python >= 3.9
-numpy
-open3d
-scipy
-matplotlib
-pclpy
+CMake ≥ 3.20
+PCL ≥ 1.12
+Eigen3
+PDAL  optional
+
