@@ -79,7 +79,7 @@ struct Parameters
     int k_search = 50;
 
     int gicp_max_iterations = 500;
-    double gicp_max_correspondence_distance = 0.02;
+    double gicp_max_correspondence_distance = 0.70;
     double gicp_transformation_epsilon = 1e-5;
     double gicp_euclidean_fitness_epsilon = 1e-5;
     bool gicp_use_reciprocal_correspondences = true;
