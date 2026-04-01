@@ -27,7 +27,7 @@ link_directories(${PCL_LIBRARY_DIRS})
 add_definitions(${PCL_DEFINITIONS})
 
 # Build the executable.
-add_executable(gicp PV-GICP.cpp)
+add_executable(gicp src/PV-GICP.cpp)
 
 # std::filesystem is used in the source file, so C++17 is required.
 target_compile_features(gicp PRIVATE cxx_std_17)
