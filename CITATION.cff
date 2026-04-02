@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the related article below."
+title: "SSC-Registration"
+type: software
+authors:
+  - family-names: "Ortiz Rincón"
+    given-names: "Marco Antonio"
+  - family-names: "Yang"
+    given-names: "Yihui"
+  - family-names: "Holst"
+    given-names: "Christoph"
+repository-code: "https://github.com/Marco-23/SSC-Registration"
+preferred-citation:
+  type: article
+  title: "Quality-controlled registration of urban MLS point clouds reducing drift effects by adaptive fragmentation"
+  authors:
+    - family-names: "Ortiz Rincón"
+      given-names: "Marco Antonio"
+    - family-names: "Yang"
+      given-names: "Yihui"
+    - family-names: "Holst"
+      given-names: "Christoph"
+  journal: "International Journal of Applied Earth Observation and Geoinformation"
+  volume: 149
+  year: 2026
+  doi: "10.1016/j.jag.2026.105272"
+  start: 105272
