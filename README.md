@@ -73,8 +73,7 @@ SSC/        Semi-sphere Check adaptive fragmentation workflow
 PV-GICP/    Planar Voxel-based GICP workflow
 include/    Public headers and parameter definitions
 src/        Source code
-build/      Local build directory
-data/       Optional input or example data
+
 ```
 
 ---
