@@ -1,0 +1,48 @@
+# Build folders
+build/
+Build/
+cmake-build-*/
+out/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.pdb
+*.ilk
+
+# Qt / moc / ui / generated
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.moc
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output data you usually do not want in git
+ssc_fragments/
+rejected_fragments/
+initial_frames/
+*.pcd
+*.ply
+*.csv
