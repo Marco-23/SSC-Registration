@@ -197,7 +197,7 @@ If you use this repository in research, please cite the paper.
   doi     = {10.1016/j.jag.2026.105272}
 }
 ```
-## Download
+## Software Download
 
 The latest Windows version is available on the [Releases](../../releases/latest) page.
 
@@ -206,9 +206,6 @@ The latest Windows version is available on the [Releases](../../releases/latest)
 2. Extract the ZIP file
 3. Run `SSC-1.0.0-win64.exe`
 
-## Source code
-
-This repository contains the full source code and project data.
 ---
 
 ## License
