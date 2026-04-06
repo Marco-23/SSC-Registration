@@ -197,6 +197,14 @@ If you use this repository in research, please cite the paper.
   doi     = {10.1016/j.jag.2026.105272}
 }
 ```
+---
+
+## Software overview
+
+<img width="3832" height="2035" alt="SSC" src="https://github.com/user-attachments/assets/f8507213-2806-4721-b77e-626805f4d26f" />
+
+---
+
 ## Software Download
 
 The latest Windows version is available on the [Releases](../../releases/latest) page.
