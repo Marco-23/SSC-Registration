@@ -51,6 +51,24 @@ The overall goal is to divide long MLS trajectories into fragments that are:
 
 ---
 
+
+## Software overview
+
+<img width="3832" height="2035" alt="SSC" src="https://github.com/user-attachments/assets/f8507213-2806-4721-b77e-626805f4d26f" />
+
+---
+
+## Software Download
+
+The latest Windows version is available on the [Releases](../../releases/latest) page.
+
+### Windows
+1. Download `SSC-1.0.0-win64.zip`
+2. Extract the ZIP file
+3. Run `SSC-1.0.0-win64.exe`
+
+---
+
 ## How to use this repository
 
 This repository is organized into two main parts:
@@ -199,22 +217,7 @@ If you use this repository in research, please cite the paper.
 ```
 ---
 
-## Software overview
 
-<img width="3832" height="2035" alt="SSC" src="https://github.com/user-attachments/assets/f8507213-2806-4721-b77e-626805f4d26f" />
-
----
-
-## Software Download
-
-The latest Windows version is available on the [Releases](../../releases/latest) page.
-
-### Windows
-1. Download `SSC-1.0.0-win64.zip`
-2. Extract the ZIP file
-3. Run `SSC-1.0.0-win64.exe`
-
----
 
 ## License
 
