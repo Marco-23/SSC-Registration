@@ -63,9 +63,9 @@ The overall goal is to divide long MLS trajectories into fragments that are:
 The latest Windows version is available on the [Releases](../../releases/latest) page.
 
 ### Windows
-1. Download `SSC-1.0.0-win64.zip`
+1. Download `SSC-1.0.4-win64.zip`
 2. Extract the ZIP file
-3. Run `SSC-1.0.0-win64.exe`
+3. Run `SSC-1.0.4-win64.exe`
 
 ---
 
